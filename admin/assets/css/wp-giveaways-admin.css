@@ -1,0 +1,18 @@
+#wp-giveaway-shortcode {
+	margin-bottom:5px;
+	padding:10px;
+}
+#wp-giveaway-shortcode span{
+	padding-right: 5px;
+}
+#shortcode-text {
+    background: none repeat scroll 0 0 #FFFF00;
+    border: 1px dashed #000000;
+    padding: 5px;
+}
+.giveaway_tr th {
+	width:30%!important;
+}
+.giveaway_td input[type="text"]{
+	width:100%;
+}
